@@ -1,0 +1,18 @@
+# Theme metadata
+name = "Light"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "hsl(339, 90%, 68%)"
+
+# Menu
+menu_primary = "#fff"
+menu_text = "hsl(339, 70%, 68%)"
+menu_text_active = "hsl(339, 90%, 68%)"
+menu_title = "rgb(61, 58, 55)"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(249, 247, 248)"
